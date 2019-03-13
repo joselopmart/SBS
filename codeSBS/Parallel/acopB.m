@@ -2,8 +2,6 @@ function [f] = acopB(w,x) % the w is never used
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
 
-
-
 gB=4e-14;%4x10-11 m/w,ganancia brillouin
 Aeff=85e-18;%50e-18;%area efectiva
 

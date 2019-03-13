@@ -11,7 +11,6 @@
 We are using Dormand-Prince Method based on  http://depa.fquim.unam.mx/amyd/archivero/DormandPrince_19856.pdf   
 */
 
-
 using namespace std;
 
 __global__  void suma(int *a,int *b,int *c)
